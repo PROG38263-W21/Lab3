@@ -1,8 +1,8 @@
-# Lab 4 - Hello World in Docker, Python, Flask and Redis
+# Lab 3 - Hello World in Docker, Python, Flask and Redis
 
 ## Setup
 
-1. Clone this repository and <code>cd lab4</code> into the folder.
+1. Clone this repository and <code>cd Lab3</code> into the folder.
 2. Run <code>docker-compose build && docker-compose up</code> to start the application. Note that subsequent builds will be faster as packages and images are cached.
 3. Browse to the app on port 80 in a web browser (your VM's IP if browsing from the VM's host)
 4. Once you've confirmed that the base page is working, try loading the simple form by navigating to /simpleform in your browser.
